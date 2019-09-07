@@ -19,7 +19,7 @@
 **Link(s) to work**: [Javascript Timer](https://github.com/Ni-c0de-mus/tyler-js-timer)
 
 
-### Day 3 September 07, 2019
+### Day 2 September 07, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -38,7 +38,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 07, 2019
+### Day 4 September 07, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -47,7 +47,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 07, 2019
+### Day 5 September 07, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -56,7 +56,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 07, 2019
+### Day 6 September 07, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -65,7 +65,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 07, 2019
+### Day 7 September 07, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
