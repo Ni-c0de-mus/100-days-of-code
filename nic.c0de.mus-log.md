@@ -28,7 +28,7 @@
 **Link(s) to work**
 1. [Responsive navbar/website practice](https://github.com/Ni-c0de-mus/julio-navbar-tutorial-transfiguration)
 
-### Day 4 September 08, 2019
+### Day 3 September 08, 2019
 
 **Today's Progress**: Contineud with the navbar/website as previous day.
 
