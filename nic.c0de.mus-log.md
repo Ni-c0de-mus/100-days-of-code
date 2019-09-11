@@ -65,12 +65,13 @@ NB it's Septmber 11th now and I  really hope that no-one attacks me with thermit
 
 ### Day 6 September 11, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Created a project called Navbar Collection and followed and ad-libd one nav bar to start.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Ok so I had the idea to put together a collection of nav bar codings in one git-res so that I  can print them out and examine the code more easily and take notes and create a check list of classes and element so that I can get my head around where to put them in the code for them to have the desired effect - like a tree of efficacy. Then I can start to code nav bars on my own and try eventually to need as little reference as possible to make the basic navs work and then try and make some cool designs of my own. I guess I am trying to find the best way of learning as I go along. I know that writing things down is the best way of remembering and now the novelty of tutorials is wearing of this is where the rubber hits the road with my brain I want to be able to code this shit myself and be able to dive in and create and have that imagination where I can know enough to have an idea and be able to implement it effectibely; and also to be able to make mistakes without getting completely confused and lost.
+I will have this done in as many days as it takes for me to be satisfied with the amount of content and then I will print out a few copies and use highlighters to comprehend and repeat the layouts. Happy days! Now Wat Thunder patch 1.9 came out yesterday and I am going to try my hand at tanks lol
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Creating a collection of navbar code to print out](https://github.com/Ni-c0de-mus/navbar-collection-1)
 
 ### Day 7 September 12, 2019
 
