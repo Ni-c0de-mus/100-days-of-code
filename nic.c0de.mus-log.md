@@ -75,21 +75,22 @@ I will have this done in as many days as it takes for me to be satisfied with th
 
 ### Day 7 September 12, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I made the previous Nav responsive.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Hey ho, well I had intended to do a bit more but realised there was a bit more to know first, I wanted to make the nav roll in on itself a bit like curtains drawing but from either side, I thought to use the right and left classes and then maybe the width and height by using a transformation and setting the values to zero but it didn't seem to work so instead I just made it responsive and will watch some tutorials on CSS transitions, generally I spend 3 or 4 hours coding so having a slightly shorter session I forgive myself.
+I added a the links between Nav pages so I can switch betweent them but really the files need tidying up a bit, happy days it's all learning! ;o)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Tried different CSS effects on the Nav and added links between pages](https://github.com/Ni-c0de-mus/navbar-collection-1)
 
 ### Day 3 September 13, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Watched some videos on YT about animating properties in CSS and CSS transitions, not my most productive day but It's a watery full moon. The best things to animate are position, scale, rotation/translate and opacity, so I am seeing what is the best thing to do. I still want to create a nav that starts from invisible and appear/grows out from the center, I thought 50% left right? Anyway I will be back when I have figured it out.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Learning from videos but not my most productive day, had a look at some blockchain stuff, finding transactions on the blockchain, addressess et al.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Had a look at some CSS transitions but it's a watery full moon, moon conjunct neptune in pisces](https://github.com/Ni-c0de-mus/navbar-collection-1)
 
 ### Day 3 September 14, 2019
 
