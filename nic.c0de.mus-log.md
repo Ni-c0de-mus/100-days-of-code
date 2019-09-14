@@ -94,12 +94,17 @@ I added a the links between Nav pages so I can switch betweent them but really t
 
 ### Day 3 September 14, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I made the nav do the curtain thing! Wehoo, I hope I can remember all this! ;o)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I had a thought of how to get the nav to transform and from my thoughts, I had three ideas and one of them worked and that was to set the open to
+right: -50%;
+left: 50%;
+top: 50%;
+bottom: -50%;
+and the closed to zero all values and eh it worked, might seem simple to you guys but for me it's one of the first times I managed to think and apply an idea in code, shit I hope I can remember it lol
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Made the Nav do what I want it to](https://github.com/Ni-c0de-mus/navbar-collection-1)
 
 ### Day 3 September 15, 2019
 
