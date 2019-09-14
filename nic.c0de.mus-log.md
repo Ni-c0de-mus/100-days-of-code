@@ -83,7 +83,7 @@ I added a the links between Nav pages so I can switch betweent them but really t
 **Link(s) to work**
 1. [Tried different CSS effects on the Nav and added links between pages](https://github.com/Ni-c0de-mus/navbar-collection-1)
 
-### Day 3 September 13, 2019
+### Day 8 September 13, 2019
 
 **Today's Progress**: Watched some videos on YT about animating properties in CSS and CSS transitions, not my most productive day but It's a watery full moon. The best things to animate are position, scale, rotation/translate and opacity, so I am seeing what is the best thing to do. I still want to create a nav that starts from invisible and appear/grows out from the center, I thought 50% left right? Anyway I will be back when I have figured it out.
 
@@ -92,7 +92,7 @@ I added a the links between Nav pages so I can switch betweent them but really t
 **Link(s) to work**
 1. [Had a look at some CSS transitions but it's a watery full moon, moon conjunct neptune in pisces](https://github.com/Ni-c0de-mus/navbar-collection-1)
 
-### Day 3 September 14, 2019
+### Day 9 September 14, 2019
 
 **Today's Progress**: I made the nav do the curtain thing! Wehoo, I hope I can remember all this! ;o)
 
@@ -106,7 +106,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Made the Nav do what I want it to](https://github.com/Ni-c0de-mus/navbar-collection-1)
 
-### Day 3 September 15, 2019
+### Day 10 September 15, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -115,7 +115,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 16, 2019
+### Day 11 September 16, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -124,7 +124,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 17, 2019
+### Day 12 September 17, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -133,7 +133,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 18, 2019
+### Day 13 September 18, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -142,7 +142,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 19, 2019
+### Day 14 September 19, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
