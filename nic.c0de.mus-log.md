@@ -108,12 +108,12 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 
 ### Day 10 September 15, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Did a CSS Grid tutorial to add to the navbar. Chris Lamm
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Ok the general plan is to emulate website and garner my skills throught that, previous and on going I am creating a navbar library for practice and reference and now I want to look a bit at creating the content and put it all together so the near future will be these things ongoing with positioning of elements ::before ::after z-indices et al for the layered content. The main thing I am picking up at the moment is how to divide up the page and give classes to the divs concerning positioning, I want to creat stylish slick functioning websites.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [chris lamm grid tutorial](https://github.com/Ni-c0de-mus/12-column-grid)
 
 ### Day 11 September 16, 2019
 
