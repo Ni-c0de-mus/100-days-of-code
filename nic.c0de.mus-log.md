@@ -117,21 +117,21 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 
 ### Day 11 September 16, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Continued with CSS Grid tutorial
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I carried on with the CSS grid tutorial, not my most productive day as life etc. The tutorial creates similar grid layouts using CSS Flex and Grid to show the differences in application. As I said it's a Monday lol. Still in the game! ;o)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [chris lamm grid tutorial](https://github.com/Ni-c0de-mus/12-column-grid)
 
 ### Day 12 September 17, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Searched googel for mobile navbars and nav menus.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I searched google for example of mobile navbars and menus so that I can print them out and examine the different approaches to solving functionality with CSS and JS. It's really interesting to see the solutions developers come up with and if I print them out I can analyse how the CSS/JS interacts with the classes and elements. I'll try the more simple ones first so I build a good foundation in my mind for it. I think these past days I have been staying up late and not really sleeping proplerly so I am going to reschedule myself as it's better to learn on a full mind. Still making the most of my time though.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [chris lamm grid tutorial](https://github.com/Ni-c0de-mus/12-column-grid)
 
 ### Day 13 September 18, 2019
 
