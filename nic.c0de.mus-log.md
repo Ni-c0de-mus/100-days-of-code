@@ -135,41 +135,34 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 
 ### Day 13 September 18, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I can't remember what I did ;o)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Learining to code is a bit sureal, it's like a new world and my mind is full of learning, which doesn't leave much room for much else really, I know that when this activity is a bit more like second nature then it will blend more easily with life but as it is a steep learning curve then my mind is a bit jammed up. I have to be immersed in it for it to take hold in my mind proplerly. I have been laying the foundations for me to be able to make quite reasonable webdites, simple but cool, though when I think to start one another aspect of learning crops up and I spend some time doing that, it's a bit frustrating but I am getting there. I copied a lot of nav code so that I can do mobile first code and then to learn grid and flex and the most code efficient way to approach things.
+I cut and paste a lot of code examples into openoffice and printed a few out for reference. The things I need to remember are how to code the nav, how to blend the rest of the site, meaning position, z-index, text and overlays for responsiveness and put it all together.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [chris lamm grid tutorial](https://github.com/Ni-c0de-mus/12-column-grid)
 
 ### Day 14 September 19, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I did a few grid tutorials.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-
-### Day 3 September 20, 2019
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I did a few CSS grid tutorials, I did a few which are based on the 12 column idea but after watching a few different approaches I realised that grid areas was the way to go, so I did a tutorial to learn that and now I can look at a site and start to sketch it out in my mind, if I keep making notes with the grid and flex in mind and learn positions relative, absolute, fixed, static and sticky then hey ho that will be really cool, in fact I can almost remember them now and one time I would have started to feel intimidated by my lack of knowledge and seeming brain damage.
+Today I watched quite a few videos, copied some code for my library and hey ho. I think my mind is a bit tired, I do push myself but it's all sinking in gradually.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [CSS grid tutorial by K Powell](https://github.com/Ni-c0de-mus/css-grid-areas-kp)
 
-### Day 3 September 21, 2019
+### Day 15 September 20, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finished CSS grid tutorial.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Ok so I finished the CSS grid tutorial and it looked perfect which is good because sometimes you find issues even thought the code is the same. Today I had to learn to use SASS which I hadn't done before as I am happy to learn CSS first as you do. This entailed installing a SASS compiler in two ways one from the VS Code site and one via the terminal and one downloaded and creating a path in windows so 3 different installations and all the tuts/info to get me there. So hey ho did that. My learing for the day is that SASS won't compile if there is an error so that's good to know as I spent hours figureing out what the error was and as there were other peeps reporting the same I wondered if it was the software, well it might have been but when you code and error the SASS transpiler won't create the CSS until it is correct which is kind of cool in a way you have to be correct in your code.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [CSS grid tutorial by K Powell](https://github.com/Ni-c0de-mus/css-grid-areas-kp)
 
-### Day 3 September 22, 2019
+### Day 16 September 21, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -178,7 +171,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 23, 2019
+### Day 17 September 22, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -187,7 +180,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 24, 2019
+### Day 18 September 23, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -196,7 +189,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 25, 2019
+### Day 19 September 24, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -205,7 +198,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 26, 2019
+### Day 20 September 25, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -214,7 +207,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 27, 2019
+### Day 21 September 26, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -223,7 +216,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 28, 2019
+### Day 22 September 27, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -232,7 +225,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 29, 2019
+### Day 23 September 28, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -241,7 +234,7 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 September 30, 2019
+### Day 24 September 29, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -250,7 +243,16 @@ and the closed to zero all values and eh it worked, might seem simple to you guy
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### Day 3 October 07, 2019
+### Day 25 September 30, 2019
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+### Day 26 October 07, 2019
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
